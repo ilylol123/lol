@@ -1,0 +1,16 @@
+[
+{
+  "modid": "KyroPit",
+  "name": "dev.kyro.kyropit.KyroPit",
+  "description": "this is such a cancer",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KyroKrypt"],
+  "credits": "KyroKrypt",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
